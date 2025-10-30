@@ -19,6 +19,482 @@
     {
       "en": "Whether you think you can or you think you can't, you're right.",
       "zh": "不管你认为自己能还是不能，你都是对的。"
+    },
+    {
+      "en": "Start where you are. Use what you have. Do what you can.",
+      "zh": "从你所在之处开始，利用你拥有的，做你能做的。"
+    },
+    {
+      "en": "Small steps every day lead to big changes over time.",
+      "zh": "每天小小的一步，久而久之带来巨大的改变。"
+    },
+    {
+      "en": "Courage is the art of beginning again when others would give up.",
+      "zh": "勇气是在别人放弃时仍能重新开始的艺术。"
+    },
+    {
+      "en": "A clear goal gives you direction; focused work gets you there.",
+      "zh": "明确的目标指引方向，专注的行动带你抵达。"
+    },
+    {
+      "en": "Learn more from failure than from success; failure teaches you lessons.",
+      "zh": "从失败中学到的比成功更多；失败教会你重要一课。"
+    },
+    {
+      "en": "The simplest habit done consistently beats the grand plan undone.",
+      "zh": "持续的简单习惯胜过未付诸行动的宏大计划。"
+    },
+    {
+      "en": "Be curious — curiosity opens doors that certainty keeps closed.",
+      "zh": "保持好奇——好奇心开启确定性关闭的门。"
+    },
+    {
+      "en": "Progress, not perfection, is the best measure of growth.",
+      "zh": "衡量成长的最好标准是进步，而非完美。"
+    },
+    {
+      "en": "Kindness is strength disguised in gentleness.",
+      "zh": "善意是以温柔伪装的力量。"
+    },
+    {
+      "en": "Focus on solutions instead of problems and energy will follow.",
+      "zh": "将注意力放在解决方案而非问题上，能量自然随之而来。"
+    },
+    {
+      "en": "Consistency compounds — what you repeat becomes who you are.",
+      "zh": "持续会复利——你重复的行为最终塑造了你自己。"
+    },
+    {
+      "en": "The greatest ideas are born from asking better questions.",
+      "zh": "伟大的想法来自于提出更好的问题。"
+    },
+    {
+      "en": "Listen more than you speak; listening gives you clarity.",
+      "zh": "多听少说；倾听带来清晰。"
+    },
+    {
+      "en": "Time invested in learning always pays the best interest.",
+      "zh": "投入于学习的时间，总会得到最高的回报。"
+    },
+    {
+      "en": "Your attitude colors every experience — choose optimism.",
+      "zh": "你的态度决定体验的色彩——选择乐观。"
+    },
+    {
+      "en": "Dreams without action are wishes; action turns them real.",
+      "zh": "没有行动的梦想只是愿望，行动使其成为现实。"
+    },
+    {
+      "en": "Break big tasks into small wins and celebrate each one.",
+      "zh": "把大任务拆成小胜利，并庆祝每一次。"
+    },
+    {
+      "en": "The courage to try is more valuable than the fear of failure.",
+      "zh": "尝试的勇气比害怕失败更有价值。"
+    },
+    {
+      "en": "Gratitude sharpens perspective — notice the small good things.",
+      "zh": "感恩让视角更清晰——留意那些微小的美好。"
+    },
+    {
+      "en": "A calm mind takes clearer steps than a hurried one.",
+      "zh": "冷静的头脑比匆忙的心更能踏出清晰的步伐。"
+    },
+    {
+      "en": "Hard work builds habits; habits build momentum.",
+      "zh": "努力塑造习惯，习惯创造动力。"
+    },
+    {
+      "en": "Value progress over praise; results speak louder than compliments.",
+      "zh": "重视进步胜过赞美；结果比恭维更有分量。"
+    },
+    {
+      "en": "The right question is often the start of a great answer.",
+      "zh": "恰当的问题常常是伟大答案的开端。"
+    },
+    {
+      "en": "Simplify to amplify — remove clutter to reveal purpose.",
+      "zh": "简化以放大——去除纷扰以显露目标。"
+    },
+    {
+      "en": "Be present — today’s effort is the foundation for tomorrow.",
+      "zh": "活在当下——今天的努力是明日的基石。"
+    },
+    {
+      "en": "Doubt your limits, not your dreams.",
+      "zh": "怀疑你的界限，而不是你的梦想。"
+    },
+    {
+      "en": "Work quietly; let your results make the noise.",
+      "zh": "低调行动，让成果发声。"
+    },
+    {
+      "en": "Good habits are invisible investments with visible returns.",
+      "zh": "良好习惯是看不见的投资，带来看得见的回报。"
+    },
+    {
+      "en": "Action eliminates anxiety — do one small thing now.",
+      "zh": "行动消除焦虑——现在去做一件小事。"
+    },
+    {
+      "en": "Clarity begins with a single decision.",
+      "zh": "清晰始于一个简单的决定。"
+    },
+    {
+      "en": "Respect the process; excellence is built step by step.",
+      "zh": "尊重过程；卓越是一点一滴建立起来的。"
+    },
+    {
+      "en": "Your voice matters — speak what you believe, kindly.",
+      "zh": "你的声音很重要——用善意说出你的信念。"
+    },
+    {
+      "en": "Be the person who brings energy, not the one who drains it.",
+      "zh": "做能带来能量的人，而非消耗它的人。"
+    },
+    {
+      "en": "Confidence grows from competence — practice patiently.",
+      "zh": "自信源自能力——耐心练习便能培养。"
+    },
+    {
+      "en": "Let go of what you can’t control; invest in what you can.",
+      "zh": "放下无法控制的，把精力投在能掌控的事情上。"
+    },
+    {
+      "en": "A single idea acted upon is worth more than a thousand imagined.",
+      "zh": "付诸行动的一个想法胜过千个空想。"
+    },
+    {
+      "en": "Seek progress quietly; results will call attention for you.",
+      "zh": "默默追求进步，结果会替你发声。"
+    },
+    {
+      "en": "When you change your story, you change your path.",
+      "zh": "改变你的叙述，就能改变前行的方向。"
+    },
+    {
+      "en": "Gracious leaders listen before they decide.",
+      "zh": "有风度的领导先听后断。"
+    },
+    {
+      "en": "Take responsibility — ownership turns problems into projects.",
+      "zh": "承担责任——拥有感把问题变为项目。"
+    },
+    {
+      "en": "Be patient with little gains; compounding rewards come later.",
+      "zh": "对小小收获保持耐心；复利的回报终会到来。"
+    },
+    {
+      "en": "Your habits are votes for the person you wish to become.",
+      "zh": "你的习惯是为你想成为的人投下的票。"
+    },
+    {
+      "en": "Don’t wait for perfect conditions; start with what you have.",
+      "zh": "不要等完美时机；用现有的开始就好。"
+    },
+    {
+      "en": "Creativity thrives when constraints focus the mind.",
+      "zh": "当限制聚焦心智时，创造力才能茁壮。"
+    },
+    {
+      "en": "Measure progress by learning, not by comparison to others.",
+      "zh": "以学习衡量进步，而非拿自己与他人比较。"
+    },
+    {
+      "en": "Say no to distractions; say yes to priorities.",
+      "zh": "对干扰说不，对优先事项说是。"
+    },
+    {
+      "en": "Consistency is the bridge between intention and habit.",
+      "zh": "持续是意图和习惯之间的桥梁。"
+    },
+    {
+      "en": "Serve before you lead; contribution earns trust.",
+      "zh": "先服务再领导；贡献赢得信任。"
+    },
+    {
+      "en": "Build a life you don’t need a vacation from.",
+      "zh": "打造一个你不想逃离的生活。"
+    },
+    {
+      "en": "Choose courage over comfort — growth lives there.",
+      "zh": "选择勇气而非安逸——成长在那儿发生。"
+    },
+    {
+      "en": "A good plan adapts; rigidity breaks when conditions change.",
+      "zh": "好的计划会适应；僵化在变化中破碎。"
+    },
+    {
+      "en": "Learn to rest without quitting.",
+      "zh": "学会休息，但不要放弃。"
+    },
+    {
+      "en": "Generosity is a habit that multiplies joy.",
+      "zh": "慷慨是一种会使快乐成倍增长的习惯。"
+    },
+    {
+      "en": "Act with intention; small choices shape a big life.",
+      "zh": "有意图地行动；小选择塑造一生。"
+    },
+    {
+      "en": "Be brave enough to start and wise enough to iterate.",
+      "zh": "既要有开始的勇气，也要有不断改进的智慧。"
+    },
+    {
+      "en": "Freedom grows when responsibility is accepted.",
+      "zh": "当责任被承担时，自由得以成长。"
+    },
+    {
+      "en": "A grateful heart sees more opportunities.",
+      "zh": "感恩的心能看到更多机会。"
+    },
+    {
+      "en": "Take one more step — momentum builds from motion.",
+      "zh": "再迈出一步——动力来自行动。"
+    },
+    {
+      "en": "Simplicity is the result of thoughtful removal.",
+      "zh": "简洁是审慎删减后的结果。"
+    },
+    {
+      "en": "Listen to learn, not just to reply.",
+      "zh": "倾听是为了学习，而不仅仅是回应。"
+    },
+    {
+      "en": "Comfort is a good servant but a poor master.",
+      "zh": "舒适是好仆人，但糟糕的主人。"
+    },
+    {
+      "en": "Expect setbacks; prepare to persist.",
+      "zh": "预料挫折；准备坚持。"
+    },
+    {
+      "en": "Your reputation is built by actions, not claims.",
+      "zh": "你的名声由行动而非言辞建立。"
+    },
+    {
+      "en": "Invest in relationships — they outlast any achievement.",
+      "zh": "投资于人际关系——它们比任何成就更持久。"
+    },
+    {
+      "en": "Use feedback as a mirror, not as a verdict.",
+      "zh": "把反馈当镜子，而非判决。"
+    },
+    {
+      "en": "Curate your attention; what you attend grows.",
+      "zh": "管理你的注意力；你关注的东西会增长。"
+    },
+    {
+      "en": "Be kind to yourself; resilience needs self-care.",
+      "zh": "善待自己；韧性需要自我关怀。"
+    },
+    {
+      "en": "Action clarifies truth; ideas alone remain vague.",
+      "zh": "行动澄清真相；光有想法则模糊。"
+    },
+    {
+      "en": "Aim for progress you can sustain for years.",
+      "zh": "追求可持续数年的进步。"
+    },
+    {
+      "en": "Make time for thinking; it is the seedbed of good work.",
+      "zh": "留时间思考；思考是好工作的摇蓝。"
+    },
+    {
+      "en": "Trust grows from small, consistent commitments.",
+      "zh": "信任来自小而持续的承诺。"
+    },
+    {
+      "en": "Be curious about people — everyone has a story to tell.",
+      "zh": "对人保持好奇——每个人都有故事可讲。"
+    },
+    {
+      "en": "Clarity beats busyness; prioritize the essential.",
+      "zh": "清晰胜过忙碌；优先重要的事。"
+    },
+    {
+      "en": "Hard choices create fewer regrets than easy comforts.",
+      "zh": "艰难的选择比轻松的安逸留下更少遗憾。"
+    },
+    {
+      "en": "Your words shape your world; speak with care.",
+      "zh": "你的语言塑造你的世界；说话要谨慎。"
+    },
+    {
+      "en": "Grow where you are planted; tend the soil first.",
+      "zh": "在所处之地成长，先耕耘好土壤。"
+    },
+    {
+      "en": "Be an encourager; one kind word can change a day.",
+      "zh": "做一个鼓励者；一句善言能改变一天。"
+    },
+    {
+      "en": "Practice patience — deep work requires time and focus.",
+      "zh": "练习耐心——深度工作需要时间与专注。"
+    },
+    {
+      "en": "A disciplined life is built one decision at a time.",
+      "zh": "有纪律的生活由一次次决定构成。"
+    },
+    {
+      "en": "Let experience teach you; reflection makes it wisdom.",
+      "zh": "让经历教你，反思把它变成智慧。"
+    },
+    {
+      "en": "Make your environment support your goals.",
+      "zh": "让环境支持你的目标。"
+    },
+    {
+      "en": "When in doubt, take the next small step forward.",
+      "zh": "犹豫时，向前迈出下一小步。"
+    },
+    {
+      "en": "The best investment is the one you commit to daily.",
+      "zh": "最好的投资是你每天都会坚持的那项。"
+    },
+    {
+      "en": "Light a candle rather than curse the darkness.",
+      "zh": "点燃一支蜡烛，不要诅咒黑暗。"
+    },
+    {
+      "en": "Progress requires both patience and urgency.",
+      "zh": "进步既需要耐心也需要紧迫感。"
+    },
+    {
+      "en": "Celebrate effort — it fuels future persistence.",
+      "zh": "庆祝付出——它为未来的坚持提供能量。"
+    },
+    {
+      "en": "Be quick to apologize and slow to anger.",
+      "zh": "道歉要快，生气要慢。"
+    },
+    {
+      "en": "The mind grows by reading, the heart by living.",
+      "zh": "思想因阅读增长，内心因生活而丰富。"
+    },
+    {
+      "en": "Choose depth over breadth when learning a skill.",
+      "zh": "学习技能时选择深度而非广度。"
+    },
+    {
+      "en": "Give credit freely; recognition multiplies goodwill.",
+      "zh": "慷慨给予认可；认可会倍增善意。"
+    },
+    {
+      "en": "Turn obstacles into experiments — test and learn.",
+      "zh": "把障碍当实验——检验并学习。"
+    },
+    {
+      "en": "A humble attitude opens doors that ego closes.",
+      "zh": "谦逊打开自负关闭的门。"
+    },
+    {
+      "en": "Be dependable; consistency builds credibility.",
+      "zh": "做一个可靠的人；持续建立可信度。"
+    },
+    {
+      "en": "Guard your energy — say no politely when needed.",
+      "zh": "守护你的能量——必要时礼貌地说不。"
+    },
+    {
+      "en": "Find meaning in the work itself, not only the outcome.",
+      "zh": "在工作本身寻找意义，而不仅仅是结果。"
+    },
+    {
+      "en": "Lead by example; action inspires more than instruction.",
+      "zh": "以身作则；行动比教导更能激励。"
+    },
+    {
+      "en": "Turn knowledge into practice and practice into habit.",
+      "zh": "把知识变为实践，把实践变成习惯。"
+    },
+    {
+      "en": "Choose friends who challenge you to be better.",
+      "zh": "选择能促使你变得更好的朋友。"
+    },
+    {
+      "en": "Be ready to pivot when new information arrives.",
+      "zh": "当新信息出现时要准备好调整方向。"
+    },
+    {
+      "en": "Savor small wins; they are the fuel for longer journeys.",
+      "zh": "珍惜小小的胜利——它们是长远旅程的燃料。"
+    },
+    {
+      "en": "Keep promises to yourself; self-trust is foundational.",
+      "zh": "对自己守承诺；自信是根基。"
+    },
+    {
+      "en": "Learn to say 'not now' — timing is often the advantage.",
+      "zh": "学会说‘现在不行’——时机常常是优势。"
+    },
+    {
+      "en": "Great work often begins with a curious question.",
+      "zh": "伟大的工作常由一个好奇的问题开始。"
+    },
+    {
+      "en": "Invest time in relationships; they repay in unexpected ways.",
+      "zh": "投资于人际关系；它们会以意想不到的方式回报你。"
+    },
+    {
+      "en": "Be patient with others; everyone carries unseen burdens.",
+      "zh": "对他人保持耐心；每个人都有看不见的负担。"
+    },
+    {
+      "en": "Practice gratitude daily; it reshapes perspective.",
+      "zh": "每天练习感恩；它能重塑视角。"
+    },
+    {
+      "en": "Create routines that protect your mental bandwidth.",
+      "zh": "建立保护心理带宽的日常习惯。"
+    },
+    {
+      "en": "Stay humble in victory and gracious in defeat.",
+      "zh": "胜时谦逊，败时从容。"
+    },
+    {
+      "en": "A focused mind is the most precious resource you have.",
+      "zh": "专注的心智是你最宝贵的资源。"
+    },
+    {
+      "en": "Act with integrity even when no one is watching.",
+      "zh": "即便无人见证，也要保持正直。"
+    },
+    {
+      "en": "Learn to enjoy the process; outcomes will follow.",
+      "zh": "学会享受过程，结果自会随之而来。"
+    },
+    {
+      "en": "Your future self will thank you for the choices you make today.",
+      "zh": "你的未来之我会感谢你今天所做的选择。"
+    },
+    {
+      "en": "Think in decades, act in days.",
+      "zh": "以十年为念，以日为行。"
+    },
+    {
+      "en": "Clarity of purpose simplifies hard decisions.",
+      "zh": "目标清晰让艰难决定变得简单。"
+    },
+    {
+      "en": "Be present with people; attention is the rarest gift.",
+      "zh": "陪伴他人时专注；注意力是最稀缺的礼物。"
+    },
+    {
+      "en": "Serve quietly; impact often arrives without fanfare.",
+      "zh": "默默付出；影响常在不声不响中到来。"
+    },
+    {
+      "en": "Start small, but start now.",
+      "zh": "从小处开始，但现在就开始。"
+    },
+    {
+      "en": "Practice resilience — bend, don’t break, under pressure.",
+      "zh": "练习韧性——在压力下弯而不断。"
+    },
+    {
+      "en": "Turn intentions into rituals and rituals into identity.",
+      "zh": "把意图变成仪式，把仪式变成身份的一部分。"
     }
   ]
 }
